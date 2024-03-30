@@ -1,0 +1,3 @@
+From 2024-2-22 to 2024-3-30
+Completed the study of JAVASE
+JUST DO THE HARD BUT RIGHT THING
